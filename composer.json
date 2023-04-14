@@ -1,0 +1,15 @@
+{
+    "name": "rmpel/pomerge",
+    "description": "A better way to merge translations using PO files",
+    "type": "project",
+    "require": {
+        "gettext/gettext": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Remon Pel",
+            "email": "remon@acato.nl"
+        }
+    ],
+    "minimum-stability": "dev"
+}
